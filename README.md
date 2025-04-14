@@ -1,6 +1,6 @@
 # Hello!
 <body>
-<div style="display: flex;">
+<div style="display: flex; flex-direction: column; align-items: center;">
 
 <h1>
 
