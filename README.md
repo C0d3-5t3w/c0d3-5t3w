@@ -1,5 +1,7 @@
 # Hello!
 
-* <[MyPage](https://c0d3-5t3w.github.io/)>
+* [MyPage](https://c0d3-5t3w.github.io/)
 
-* <[ZiggysPage](https://c0d3-5t3w.github.io/Ziggy/)> 
+* [ZiggysPage](https://c0d3-5t3w.github.io/Ziggy/)
+
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3-5t3w&layout=compact)]
