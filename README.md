@@ -12,7 +12,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=C0d3-5t3w&theme=radical)
 
-![My Skills](https://skillicons.dev/icons?i=apple.linux,html,css,tailwind,sass,bash,ps,php,postgres,sqlite,py,tensorflow,pytorch,go,js,ts,nextjs,nodejs,rust,c,cpp,zig,swift,lua,postman,git,github,vim,neovim,vscode,raspberrypi,discord%theme=radical)
-
+![My Skills](https://skillicons.dev/icons?i=apple,linux,html,css,tailwind,sass,bash,ps,php,postgres,sqlite,py,tensorflow,pytorch,go,js,ts,nextjs,nodejs,rust,c,cpp,zig,swift,lua,postman,git,github,vim,neovim,vscode,raspberrypi,discord)
 
 <!-- <3 -->
