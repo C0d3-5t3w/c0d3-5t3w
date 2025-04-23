@@ -9,6 +9,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0d3-5t3w&layout=compact&theme=radical"/>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=apple,linux,bash,php,html,sass,js,ts,py,c,go,rust,zig,neovim,raspberrypi"/>
+    <img src="https://skillicons.dev/icons?i=apple,linux,bash,php,html,sass,js,ts,py,c,go,rust,zig,cpp,neovim,raspberrypi"/>
 </p>
 <!-- <3 -->
