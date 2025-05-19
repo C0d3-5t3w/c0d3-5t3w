@@ -11,4 +11,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=apple,linux,bash,html,sass,ts,py,c,cpp,go,rust,zig,neovim"/>
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=C0d3-5t3w&show_icons=true&theme=radical"/>
+</p>
 <!-- <3 -->
