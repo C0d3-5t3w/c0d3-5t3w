@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0d3-5t3w&layout=compact&theme=radical"/>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=apple,linux,bash,html,sass,ts,py,c,cpp,objc,swift,go,rust,zig,neovim"/>
+    <img src="https://skillicons.dev/icons?i=apple,linux,bash,html,sass,ts,py,c,cpp,m,swift,go,rust,zig,neovim"/>
 </p>
 <!--
 <p align="center">
