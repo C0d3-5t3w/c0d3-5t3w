@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=apple,linux,bash,html,sass,ts,py,c,cpp,elixir,swift,go,rust,zig,neovim"/>
 </p>
 <p align="center">
-    <img sec="https://camo.githubusercontent.com/b12cb63c90c0c5a63665fc7f45eca00aafa0d0150a25cf385d829f790a43d39d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6c6570743026636f6c6f723d626c756576696f6c6574267374796c653d666c61742d737175617265"/>
+    <img sec="https://komarev.com/ghpvc/?username=C0d3-5t3w&color=blueviolet&style=flat-square"/>
 </p>
 <!--
 <p align="center">
