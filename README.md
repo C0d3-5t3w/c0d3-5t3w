@@ -14,6 +14,6 @@
 <p align="center">
     <img sec="https://komarev.com/ghpvc/?username=C0d3-5t3w&color=blueviolet&style=flat-square"/>
 </p>
-<!-- <p align="center"> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=C0d3-5t3w&show_icons=true&theme=radical"/> -->
-<!-- </p> -->
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=C0d3-5t3w&show_icons=true&theme=radical"/>
+</p>
